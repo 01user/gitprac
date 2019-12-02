@@ -6,3 +6,4 @@ https
 repush after pull
 https push 
 add dev branch
+master branch edit
