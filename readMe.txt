@@ -7,4 +7,4 @@ repush after pull
 https push 
 add dev branch
 master branch edit
-local mater edit
+local mater and dev edit
